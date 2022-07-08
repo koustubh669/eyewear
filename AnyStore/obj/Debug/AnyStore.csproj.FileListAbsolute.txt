@@ -1,0 +1,58 @@
+C:\Users\vijaythapa333\Desktop\AnyStore\AnyStore\bin\Debug\AnyStore.exe.config
+C:\Users\vijaythapa333\Desktop\AnyStore\AnyStore\bin\Debug\AnyStore.exe
+C:\Users\vijaythapa333\Desktop\AnyStore\AnyStore\bin\Debug\AnyStore.pdb
+C:\Users\vijaythapa333\Desktop\AnyStore\AnyStore\obj\Debug\AnyStore.csprojResolveAssemblyReference.cache
+C:\Users\vijaythapa333\Desktop\AnyStore\AnyStore\obj\Debug\AnyStore.frmAdminDashboard.resources
+C:\Users\vijaythapa333\Desktop\AnyStore\AnyStore\obj\Debug\AnyStore.Properties.Resources.resources
+C:\Users\vijaythapa333\Desktop\AnyStore\AnyStore\obj\Debug\AnyStore.csproj.GenerateResource.Cache
+C:\Users\vijaythapa333\Desktop\AnyStore\AnyStore\obj\Debug\AnyStore.exe
+C:\Users\vijaythapa333\Desktop\AnyStore\AnyStore\obj\Debug\AnyStore.pdb
+C:\Users\vijaythapa333\Desktop\AnyStore\AnyStore\obj\Debug\AnyStore.frmUserDashboard.resources
+C:\Users\vijaythapa333\Desktop\anystore\AnyStore\obj\Debug\AnyStore.UI.frmUsers.resources
+C:\Users\vijaythapa333\Desktop\anystore\AnyStore\obj\Debug\AnyStore.UI.frmLogin.resources
+C:\Users\vijaythapa333\Desktop\anystore\AnyStore\obj\Debug\AnyStore.UI.frmCategories.resources
+C:\Users\vijaythapa333\Desktop\anystore\AnyStore\obj\Debug\AnyStore.UI.frmProducts.resources
+C:\Users\vijaythapa333\Desktop\anystore\AnyStore\obj\Debug\AnyStore.UI.frmDeaCust.resources
+C:\Users\vijaythapa333\Desktop\anystore\AnyStore\obj\Debug\AnyStore.UI.frmPurchaseAndSales.resources
+C:\Users\vijaythapa333\Desktop\anystore\AnyStore\obj\Debug\AnyStore.UI.frmTransactions.resources
+C:\Users\vijaythapa333\Desktop\anystore\AnyStore\obj\Debug\AnyStore.UI.frmInventory.resources
+F:\anystore-master\anystore-master\AnyStore\bin\Debug\AnyStore.exe.config
+F:\anystore-master\anystore-master\AnyStore\bin\Debug\AnyStore.exe
+F:\anystore-master\anystore-master\AnyStore\obj\Debug\AnyStore.csproj.AssemblyReference.cache
+F:\anystore-master\anystore-master\AnyStore\obj\Debug\AnyStore.csproj.SuggestedBindingRedirects.cache
+F:\anystore-master\anystore-master\AnyStore\obj\Debug\AnyStore.frmAdminDashboard.resources
+F:\anystore-master\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmCategories.resources
+F:\anystore-master\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmDeaCust.resources
+F:\anystore-master\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmInventory.resources
+F:\anystore-master\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmLogin.resources
+F:\anystore-master\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmProducts.resources
+F:\anystore-master\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmPurchaseAndSales.resources
+F:\anystore-master\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmTransactions.resources
+F:\anystore-master\anystore-master\AnyStore\obj\Debug\AnyStore.frmUserDashboard.resources
+F:\anystore-master\anystore-master\AnyStore\obj\Debug\AnyStore.Properties.Resources.resources
+F:\anystore-master\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmUsers.resources
+F:\anystore-master\anystore-master\AnyStore\obj\Debug\AnyStore.csproj.GenerateResource.cache
+F:\anystore-master\anystore-master\AnyStore\obj\Debug\AnyStore.csproj.CoreCompileInputs.cache
+F:\anystore-master\anystore-master\AnyStore\obj\Debug\AnyStore.exe
+F:\anystore-master\anystore-master\AnyStore\obj\Debug\AnyStore.pdb
+F:\anystore-master\anystore-master\AnyStore\bin\Debug\AnyStore.pdb
+F:\eye wear\anystore-master\AnyStore\obj\Debug\AnyStore.csproj.AssemblyReference.cache
+F:\eye wear\anystore-master\AnyStore\obj\Debug\AnyStore.csproj.SuggestedBindingRedirects.cache
+F:\eye wear\anystore-master\AnyStore\obj\Debug\AnyStore.exe
+F:\eye wear\anystore-master\AnyStore\obj\Debug\AnyStore.pdb
+F:\eye wear\anystore-master\AnyStore\bin\Debug\AnyStore.exe.config
+F:\eye wear\anystore-master\AnyStore\bin\Debug\AnyStore.exe
+F:\eye wear\anystore-master\AnyStore\bin\Debug\AnyStore.pdb
+F:\eye wear\anystore-master\AnyStore\obj\Debug\AnyStore.frmAdminDashboard.resources
+F:\eye wear\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmCategories.resources
+F:\eye wear\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmDeaCust.resources
+F:\eye wear\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmInventory.resources
+F:\eye wear\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmLogin.resources
+F:\eye wear\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmProducts.resources
+F:\eye wear\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmPurchaseAndSales.resources
+F:\eye wear\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmTransactions.resources
+F:\eye wear\anystore-master\AnyStore\obj\Debug\AnyStore.frmUserDashboard.resources
+F:\eye wear\anystore-master\AnyStore\obj\Debug\AnyStore.Properties.Resources.resources
+F:\eye wear\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmUsers.resources
+F:\eye wear\anystore-master\AnyStore\obj\Debug\AnyStore.csproj.GenerateResource.cache
+F:\eye wear\anystore-master\AnyStore\obj\Debug\AnyStore.csproj.CoreCompileInputs.cache
